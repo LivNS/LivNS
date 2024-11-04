@@ -1,10 +1,24 @@
 <h1 align="center">Hi , I'm Lívia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%C2%B4m+a+software+engineer+student;DevOps%2C+data+science%2C+python...;%40liviaanamba)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%C2%B4m+a+software+engineer+student;DevOps%2C+data+science%2C+python...;%40liviaanamba" alt="Typing SVG" /></a>
 </p>
 
 
-### Minhas skills:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a student at `FIAP`.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Cybersecurity` and `Data Science and Analytics`.
+- :social: You can visit [MY LINKEDIN](www.linkedin.com/in/lívianamba).
+<br>
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-0D1117?&style=for-the-badge&logo=css3&logoColor=0D1117)&nbsp;
