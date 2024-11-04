@@ -11,7 +11,7 @@
 - :school: I am a student at `FIAP`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: `Cybersecurity` and `Data Science and Analytics`.
-- 📱: You can visit [my Linkedin](<a href="www.linkedin.com/in/lívianamba" /a>) 
+- 📱: You can visit <a href="https://www.linkedin.com/in/lívianamba">meu LinkedIn</a>
 <br>
 
 
