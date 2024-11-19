@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img href="https://tenor.com/view/hello-kitty-pixel-art-pink-gif-3250786679438431210">Hello Kitty Pixel Art Sticker</a>from <a href="https://tenor.com/search/hello+kitty-stickers">Hello Kitty Stickers</a></div> type="text/javascript" async src="https://tenor.com/embed.js" width = 50px>  </picture> Programming languages
+### <picture> <img href="https://tenor.com/search/hello+kitty-stickers">Hello Kitty Stickers</a></div> type="text/javascript" async src="https://tenor.com/embed.js" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
