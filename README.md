@@ -18,8 +18,7 @@
 </div>
 
 - 🎓 **Estudante**: Engenharia de Software na `FIAP`.
-- 💡 **Apaixonada por**: Cybersecurity, Data Science e DevOps.
-- 💻 **Habilidades**: Resolver problemas com software.
+- 💻 **Habilidades**: Desenvolvimento de dashs e soluções.
 - 📲 **Conecte-se comigo**: [Meu LinkedIn](https://www.linkedin.com/in/lívianamba).
 
 ---
